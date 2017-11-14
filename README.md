@@ -27,3 +27,6 @@ Single Block Generation with Texture and Lighting
 
 Multiple Block Generation 
 ![blockdirtcapture](https://user-images.githubusercontent.com/29237134/32756568-68a1c704-c8a0-11e7-9ac8-8688aba04580.PNG)
+
+# References
+I had zero experience with OpenGL at all when starting this project. I used many different youtube videos to finally understand and start creating content. Mainly the youtube account thebennybox where he creates a monkey head, I found it extremely useful. The best OpenGl reference site I found along the way so far has been: doc.gl 
