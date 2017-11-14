@@ -17,7 +17,7 @@ First attempt at a Minecraft Clone in C++ using OpenGL
   Physics such as walking on top block and jumping
 
 # Dependencies
- You will need GLEW(OpenGL 3.3 or newer), GLM and SLD2 libraries and a complier that supports C++
+ You will need GLEW(OpenGL 3.3 or newer), GLM(not uploaded) and SLD2 libraries and a complier that supports C++
  
 # Screenshots
 To be added once I have more then just a few blocks generated and skybox implemented
