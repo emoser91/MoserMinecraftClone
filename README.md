@@ -21,3 +21,6 @@ First attempt at a Minecraft Clone in C++ using OpenGL
  
 # Screenshots
 To be added once I have more then just a few blocks generated and skybox implemented
+
+Single Block Generation with Texture and Lighting
+![singleblockcapture](https://user-images.githubusercontent.com/29237134/32756502-06e58582-c8a0-11e7-9af3-e2c90970236e.PNG)
