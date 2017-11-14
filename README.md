@@ -1,7 +1,7 @@
 # MoserMinecraftClone
 First attempt at a Minecraft Clone in C++ using OpenGL
 
-# Decription
+# Description
   This is a current work in progress project to extend my knowledge of C++ and the fundamentals of graphics generation.
   It currently can generate any .obj file based object or manually based on vertices, apply textures and lighting to objects, allow for       keyboard and mouse input to translate a camera and a few other goodies such as a game timer and player crosshairs
   
